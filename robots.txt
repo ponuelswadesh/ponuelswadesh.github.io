@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /old-site/
+
+Sitemap: https://ponuelswadesh.github.io/sitemap.xml
